@@ -1,0 +1,7 @@
+{
+  "name": "Talkok",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
